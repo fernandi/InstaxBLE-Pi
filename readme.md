@@ -1,3 +1,8 @@
+# JUST A FORK OF INSTAX-BLE TRYING TO MAKE IT WORK ON RASPBERRY PI #
+[![INSTAX-BLE]](https://github.com/javl/InstaxBLE) 
+
+
+
 # Instax-BLE
 
 <img align="right" style="margin:10px" src="https://github.com/javl/Instax-Bluetooth/blob/main/instax-bluetooth.gif?raw=true">
