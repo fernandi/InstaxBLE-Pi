@@ -1,5 +1,5 @@
 # JUST A FORK OF INSTAX-BLE TRYING TO MAKE IT WORK ON RASPBERRY PI #
-[![INSTAX-BLE]](https://github.com/javl/InstaxBLE) 
+[INSTAX-BLE](https://github.com/javl/InstaxBLE) 
 
 
 
